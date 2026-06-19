@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-invierno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Abrazo de invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-invierno/) |
+| **Get License** | [Get a Licensing Quote for Abrazo de invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-invierno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3703)
+- [Telegram](https://t.me/AbuSayedMusic/3706)
 
 ---
 
