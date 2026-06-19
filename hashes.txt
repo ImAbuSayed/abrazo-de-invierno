@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazo de invierno
+
+This log tracks the cryptographic history and versioning for the song **Abrazo de invierno** (abrazo-de-invierno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T00:20:47.566605 | `v1` | `08dc6f24a98cdaabbb1308762684668f38393a5759c72a917755bf78b1bd78bf` | `98b9e84855c532c57bcadaff67577500ab47dae3750a85ab8e1f8bc1f6729587` | `2026-06-20_abrazo-de-invierno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
