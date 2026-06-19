@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-invierno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Abrazo de invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-invierno/) |
+| **Get License** | [License this song: Abrazo de invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-invierno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `08dc6f24a98cdaabbb1308762684668f38393a5759c72a917755bf78b1bd78bf` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `8b12e8d6eb31aaba98d9a0c0cdbe46764cdc84190b33a748a2fbf728f9e88875` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

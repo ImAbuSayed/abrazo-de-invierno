@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Abrazo d
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T00:20:47.566605 | `v1` | `08dc6f24a98cdaabbb1308762684668f38393a5759c72a917755bf78b1bd78bf` | `98b9e84855c532c57bcadaff67577500ab47dae3750a85ab8e1f8bc1f6729587` | `2026-06-20_abrazo-de-invierno-v1.txt` |
+| 2026-06-20T00:24:22.847228 | `v2` | `8b12e8d6eb31aaba98d9a0c0cdbe46764cdc84190b33a748a2fbf728f9e88875` | `90279d36a68a484e9b3ab972392d3ff95290e148235b3366f956ae16a5788262` | `2026-06-20_abrazo-de-invierno-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
