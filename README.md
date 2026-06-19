@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-invierno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Abrazo de invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-invierno/) |
+| **Get License** | [Obtain a Music License for Abrazo de invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-invierno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit ef41953dfedc0ba8e9af5a0198b3fe9b731dd7fb
+> Nena, este frío me pide tu piel, you know
+> Un abrazo de invierno pa' entrar en calor, let's go
+> La disco en Madrid nos llama a perder la razón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
